@@ -1,0 +1,24 @@
+{
+  "name": "2.7-jsx",
+  "version": "1.0.0",
+  "description": "JSX-tst",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcin-Kurpiewski/2.7-JSX.git"
+  },
+  "keywords": [
+    "JSX",
+    "HTML",
+    "React"
+  ],
+  "author": "Marcin K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcin-Kurpiewski/2.7-JSX/issues"
+  },
+  "homepage": "https://github.com/Marcin-Kurpiewski/2.7-JSX#readme"
+}
